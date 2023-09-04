@@ -1,4 +1,4 @@
-# Space-Weather-Modeling-with-CHAMP-and-JB2008-Data
+# Satellite Trajectory Density Visualization
 
 ## Overview
 

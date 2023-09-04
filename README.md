@@ -25,5 +25,5 @@ Before running the program, make sure you have the following dependencies instal
 You can install these dependencies using pip:
 
 ```bash
-pip install numpy scipy pandas matplotlib
+pip install numpy scipy pandas matplotlib '''
 
